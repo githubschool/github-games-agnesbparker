@@ -1,0 +1,6 @@
+* @team-1
+*.js @front-end-team
+*.rb @ruby-expert
+/tests/ @qa-team
+/tests/front-end @front-end-qa @demo-team-1
+*.md @allthedoll
